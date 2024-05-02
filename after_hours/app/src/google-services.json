@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096164982966",
+    "project_id": "after-hours-ffb9a",
+    "storage_bucket": "after-hours-ffb9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096164982966:android:558b2e9be06c9cabeae617",
+        "android_client_info": {
+          "package_name": "com.example.after_hours"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096164982966-cfkli9rb55ue9p8fb383cultomb62mr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApHlJaDY4T_P22Qz-ctz8tprR9RPjwc6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096164982966-cfkli9rb55ue9p8fb383cultomb62mr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
